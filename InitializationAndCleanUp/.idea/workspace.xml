@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adafe2ad-ed29-4ba6-afa7-e0847103717c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/Cells.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/cell/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/cellMachine/CellMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/field/Field.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/field/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/cellMachine/CellMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/BasicThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/CachedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/E03_Runnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/FixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/MoreBasicThreads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/concurrency/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Concurrency/src/control/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/CD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/DVD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Database.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/VideoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/initialization/EX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerBorrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerConsult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/MySQLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/userModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Property/src/Exercise5_2/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/E13_InheritedOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/E20_OverrideAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/E21_FinalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/EX11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/EX15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/EX22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/aboutFinal/BlankFinal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/reusing/aboutFinal/E18_FinalFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReusingClasses/src/testing/EX15Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/Shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Picture$ShapesPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/getPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/getPic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkingInJava/src/avengers/Steve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkingInJava/src/avengers/tony.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkingInJava/src/cooking/sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkingInJava/src/marvel/Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThinkingInJava/src/sports/swimming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/Timetable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/out/production/Timetable/Timetable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/out/production/Timetable/Timetable/TableData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/src/Timetable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/src/Timetable/TableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/castle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/production/castle/castle/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/production/castle/castle/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/src/castle/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/src/castle/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/cellmachine/CellMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/out/production/hw1/Fraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/out/production/hw1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/hw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myShapes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/newCastle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/HandlerBye.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/HandlerGo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/HandlerHelp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/out/production/newCastle/com/company/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/HandlerBye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/HandlerGo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/HandlerHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newCastle/src/com/company/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/BeerSong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/GameLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/GuessGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/puzzles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/BeerSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/puzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/out/production/tryhelloworld/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/tryhelloworld.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="296932555">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2625" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2625" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+              <folding>
+                <element signature="e#61#62#0" expanded="true" />
+                <element signature="e#114#115#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#379#380#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#774#775#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX13.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX17.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding>
+                <element signature="e#131#132#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#63#64#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX19.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/initialization/EX20.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/initialization/EX3.java" />
+        <option value="$PROJECT_DIR$/src/initialization/EX10.java" />
+        <option value="$PROJECT_DIR$/src/initialization/EX13.java" />
+        <option value="$PROJECT_DIR$/src/initialization/EX17.java" />
+        <option value="$PROJECT_DIR$/src/initialization/EX20.java" />
+        <option value="$PROJECT_DIR$/src/initialization/EX19.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InitializationAndCleanUp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InitializationAndCleanUp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InitializationAndCleanUp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InitializationAndCleanUp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InitializationAndCleanUp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InitializationAndCleanUp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="initialization" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/mohaitao/Desktop/JavaCode/InitializationAndCleanUp/src/Main.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550458092574" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EX19">
+    <configuration name="EX10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initialization.EX10" />
+      <module name="InitializationAndCleanUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initialization.EX13" />
+      <module name="InitializationAndCleanUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initialization.EX17" />
+      <module name="InitializationAndCleanUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initialization.EX19" />
+      <module name="InitializationAndCleanUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EX20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="initialization.EX20" />
+      <module name="InitializationAndCleanUp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="initialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EX10" />
+      <item itemvalue="Application.EX13" />
+      <item itemvalue="Application.EX17" />
+      <item itemvalue="Application.EX19" />
+      <item itemvalue="Application.EX20" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EX19" />
+        <item itemvalue="Application.EX20" />
+        <item itemvalue="Application.EX17" />
+        <item itemvalue="Application.EX13" />
+        <item itemvalue="Application.EX10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adafe2ad-ed29-4ba6-afa7-e0847103717c" name="Default Changelist" comment="" />
+      <created>1550157349152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550157349152</updated>
+      <workItem from="1550157350444" duration="228000" />
+      <workItem from="1550158168006" duration="10861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11089000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="707" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2593801" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32952693" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
+          <folding>
+            <element signature="e#61#62#0" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX13.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#63#64#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/initialization/EX19.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

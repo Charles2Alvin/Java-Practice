@@ -1,0 +1,9 @@
+title,author,price,bookID,lastBorrowTime,borrower
+三体,刘慈欣,40,1,"2019-01-01 12:00:15",高晓松
+三国,罗贯中,200,2,NULL,李诞
+薛兆丰的经济学讲义,薛兆丰,199,3,NULL,NULL
+蔡康永的情商课,蔡康永,199,4,NULL,NULL
+天龙八部,金庸,99,5,NULL,NULL
+射雕英雄传,金庸,134,6,NULL,NULL
+倚天屠龙记,金庸,134,7,NULL,NULL
+笑傲江湖,金庸,99,8,NULL,NULL

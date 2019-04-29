@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c92059c1-eb2d-4bf0-89ea-87ebb5c727dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/Cells.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/cell/Cell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/cellMachine/CellMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/field/Field.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/out/production/Cells/field/View.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/cellMachine/CellMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cells/src/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/Database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/CD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/DVD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Database.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/DBApp/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/out/production/Database/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/DVD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/DBApp/VideoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Database/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerBorrow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerConsult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/HandlerReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/MySQLDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Library/src/Library/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/Shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Picture$ShapesPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Picture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/out/production/Shapes/shapes/getPic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Picture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Shapes/src/shapes/getPic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/Timetable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/out/production/Timetable/Timetable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/out/production/Timetable/Timetable/TableData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/src/Timetable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Timetable/src/Timetable/TableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/castle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/production/castle/castle/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/production/castle/castle/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/src/castle/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../castle/src/castle/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/cell/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/cellmachine/CellMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/field/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cellss/src/field/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/hw1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/out/production/hw1/Fraction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/out/production/hw1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/hw2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Clock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/out/production/hw2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hw2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myShapes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newCastle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/HandlerBye.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/HandlerGo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/HandlerHelp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/newCastle/com/company/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerBye.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerGo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/HandlerHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/BeerSong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/GameLauncher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/GuessGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Java/work/puzzles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/BeerSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/GameLauncher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/GuessGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/work/puzzles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/out/production/tryhelloworld/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tryhelloworld/tryhelloworld.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="81279540">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="888" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="888" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-251626053">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Room.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Handler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#140#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/HandlerBye.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#97#98#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/HandlerGo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/HandlerHelp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Room.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Game.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HandlerHelp.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HandlerBye.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HandlerGo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Handler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="newCastle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newCastle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newCastle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newCastle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newCastle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newCastle" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547185305688" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Game" />
+      <module name="newCastle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="newCastle" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92059c1-eb2d-4bf0-89ea-87ebb5c727dc" name="Default Changelist" comment="" />
+      <created>1546250488560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546250488560</updated>
+      <workItem from="1546250491398" duration="4234000" />
+      <workItem from="1547117794699" duration="2774000" />
+      <workItem from="1547361428225" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7619000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.134895" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23055163" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#createRooms#0;class#Game#0" />
+            <element signature="method#showPrompt#0;class#Game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Room.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HandlerBye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#97#98#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HandlerGo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/HandlerHelp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
